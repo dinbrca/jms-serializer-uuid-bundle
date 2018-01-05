@@ -50,7 +50,7 @@ class User
 
 Requirements
 ------------
-Works with PHP 5.6 or PHP 7.
+Works with PHP 7.0 or higher.
 
 Submitting bugs and feature requests
 ------------------------------------
